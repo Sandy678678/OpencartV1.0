@@ -1,0 +1,50 @@
+2026-05-26 13:35:00 INFO  TC003_LoginDDT:46 - TEST CASE PASSED
+2026-05-26 13:35:00 INFO  TC003_LoginDDT:78 - **** FINISHED TC003_LoginDDT 
+2026-05-26 13:35:01 ERROR TC003_LoginDDT:66 - TEST CASE FAILED
+2026-05-26 13:35:01 INFO  TC003_LoginDDT:78 - **** FINISHED TC003_LoginDDT 
+2026-05-26 13:35:04 INFO  TC003_LoginDDT:46 - TEST CASE PASSED
+2026-05-26 13:35:04 INFO  TC003_LoginDDT:78 - **** FINISHED TC003_LoginDDT 
+2026-05-26 13:35:14 INFO  TC003_LoginDDT:60 - TEST CASE PASSED
+2026-05-26 13:35:14 INFO  TC003_LoginDDT:78 - **** FINISHED TC003_LoginDDT 
+2026-05-26 13:35:26 INFO  TC003_LoginDDT:60 - TEST CASE PASSED
+2026-05-26 13:35:26 INFO  TC003_LoginDDT:78 - **** FINISHED TC003_LoginDDT 
+2026-05-26 13:37:43 INFO  TC001_AccountRegistrationTest:16 - Starting TC001_AccountRegistrationTest... 
+2026-05-26 13:37:43 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount link
+2026-05-26 13:37:43 INFO  TC001_AccountRegistrationTest:23 - Clicked on Register link
+2026-05-26 13:37:44 INFO  TC001_AccountRegistrationTest:26 - Entering customer details in Registration page..
+2026-05-26 13:37:45 INFO  TC001_AccountRegistrationTest:38 - Validating expected message..
+2026-05-26 13:37:45 INFO  TC001_AccountRegistrationTest:42 - Test Passed
+2026-05-26 13:37:45 INFO  TC001_AccountRegistrationTest:61 - Finished TC001_AccountRegistrationTest
+2026-05-26 13:37:47 INFO  TC002_LoginTest:16 - **** STARTING TC002_LoginTest *********** 
+2026-05-26 13:37:49 INFO  TC002_LoginTest:37 - TEST CASE PASSED
+2026-05-26 13:37:49 INFO  TC002_LoginTest:52 - **** FINISHED TC002_LoginTest ****
+2026-05-26 15:28:42 INFO  TC001_AccountRegistrationTest:16 - Starting TC001_AccountRegistrationTest... 
+2026-05-26 15:28:42 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount link
+2026-05-26 15:28:43 INFO  TC001_AccountRegistrationTest:23 - Clicked on Register link
+2026-05-26 15:28:43 INFO  TC001_AccountRegistrationTest:26 - Entering customer details in Registration page..
+2026-05-26 15:28:45 INFO  TC001_AccountRegistrationTest:38 - Validating expected message..
+2026-05-26 15:28:45 INFO  TC001_AccountRegistrationTest:42 - Test Passed
+2026-05-26 15:28:45 INFO  TC001_AccountRegistrationTest:61 - Finished TC001_AccountRegistrationTest
+2026-05-26 15:28:49 INFO  TC002_LoginTest:16 - **** STARTING TC002_LoginTest *********** 
+2026-05-26 15:28:53 INFO  TC002_LoginTest:37 - TEST CASE PASSED
+2026-05-26 15:28:53 INFO  TC002_LoginTest:52 - **** FINISHED TC002_LoginTest ****
+2026-05-26 15:29:17 INFO  TC001_AccountRegistrationTest:16 - Starting TC001_AccountRegistrationTest... 
+2026-05-26 15:29:17 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount link
+2026-05-26 15:29:18 INFO  TC001_AccountRegistrationTest:23 - Clicked on Register link
+2026-05-26 15:29:18 INFO  TC001_AccountRegistrationTest:26 - Entering customer details in Registration page..
+2026-05-26 15:29:19 INFO  TC001_AccountRegistrationTest:38 - Validating expected message..
+2026-05-26 15:29:19 INFO  TC001_AccountRegistrationTest:42 - Test Passed
+2026-05-26 15:29:19 INFO  TC001_AccountRegistrationTest:61 - Finished TC001_AccountRegistrationTest
+2026-05-26 15:29:21 INFO  TC002_LoginTest:16 - **** STARTING TC002_LoginTest *********** 
+2026-05-26 15:29:23 INFO  TC002_LoginTest:37 - TEST CASE PASSED
+2026-05-26 15:29:23 INFO  TC002_LoginTest:52 - **** FINISHED TC002_LoginTest ****
+2026-05-26 15:47:44 INFO  TC001_AccountRegistrationTest:16 - Starting TC001_AccountRegistrationTest... 
+2026-05-26 15:47:44 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount link
+2026-05-26 15:47:44 INFO  TC001_AccountRegistrationTest:23 - Clicked on Register link
+2026-05-26 15:47:44 INFO  TC001_AccountRegistrationTest:26 - Entering customer details in Registration page..
+2026-05-26 15:47:46 INFO  TC001_AccountRegistrationTest:38 - Validating expected message..
+2026-05-26 15:47:46 INFO  TC001_AccountRegistrationTest:42 - Test Passed
+2026-05-26 15:47:46 INFO  TC001_AccountRegistrationTest:61 - Finished TC001_AccountRegistrationTest
+2026-05-26 15:47:50 INFO  TC002_LoginTest:16 - **** STARTING TC002_LoginTest *********** 
+2026-05-26 15:47:53 INFO  TC002_LoginTest:37 - TEST CASE PASSED
+2026-05-26 15:47:53 INFO  TC002_LoginTest:52 - **** FINISHED TC002_LoginTest ****
